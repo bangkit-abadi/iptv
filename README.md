@@ -8,7 +8,7 @@ Free IPTV playlist containing about 2000 channels from all over the world.
 
 To open the playlist in VLC player you just need click `File` - > `Open Network...` and in the window that opens, insert a link to the playlist itself: `https://raw.githubusercontent.com/arifstyawira/iptv/master/index.m3u`
 
-![VLC Network Panel](https://github.com/arifstyawira/iptv/raw/master/images/vlc-network-panel.png)
+![VLC Network Panel](https://raw.githubusercontent.com/freearhey/iptv/master/images/vlc-network-panel.png)
 
 then just press the 'Open' button
 
