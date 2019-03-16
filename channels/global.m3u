@@ -1,464 +1,464 @@
 #EXTM3U
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TRANS TV"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TRANS TV"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TRANS TV"  group-title="INDONESIA",ID | TRANS TV
 http://rr2.dens.tv/s/s05/index2.m3u8
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | SCTV"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | SCTV"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | SCTV"  group-title="INDONESIA",ID | SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | GLOBAL TV"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | GLOBAL TV"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | GLOBAL TV"  group-title="INDONESIA",ID | GLOBAL TV
 http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TRANS 7"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TRANS 7"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TRANS 7"  group-title="INDONESIA",ID | TRANS 7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | CNN Indonesia"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | CNN Indonesia"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | CNN Indonesia"  group-title="INDONESIA",ID | CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TVONE"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TVONE"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVONE"  group-title="INDONESIA",ID | TVONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | INDOSIAR"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | INDOSIAR"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | INDOSIAR"  group-title="INDONESIA",ID | INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TV2"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | TV2"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TV2"  group-title="INDONESIA",ID | TV2
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | NET TV"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | NET TV"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | NET TV"  group-title="INDONESIA",ID | NET TV
 http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INDONESIA, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | Metro TV"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | Metro TV"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Metro TV"  group-title="INDONESIA",ID | Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | MNCTV"  group-title="INDONESIA""  group-title="INDONESIA",tvg-id="" tvg-logo="Logo N/A" tvg-name="ID | MNCTV"  group-title="INDONESIA"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | MNCTV"  group-title="INDONESIA",ID | MNCTV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="DW English"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="DW English"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW English"  group-title="INTERNATIONAL",DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="CGTN English"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="CGTN English"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CGTN English"  group-title="INTERNATIONAL",CGTN English
 http://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Arise News"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="Arise News"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arise News"  group-title="INTERNATIONAL",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="English Club TV"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="English Club TV"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="English Club TV"  group-title="INTERNATIONAL",English Club TV
 http://ott-cdn.ucom.am/s37/index.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="AL Jazeera English"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="AL Jazeera English"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL Jazeera English"  group-title="INTERNATIONAL",AL Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Bloomberg TV UK"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="Bloomberg TV UK"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg TV UK"  group-title="INTERNATIONAL",Bloomberg TV UK
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TRT World"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="TRT World"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT World"  group-title="INTERNATIONAL",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JP | NHK World"  group-title="INTERNATIONAL",JP | NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-#EXTINF:INTERNATIONAL, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="CGTN English 2"  group-title="INTERNATIONAL""  group-title="INTERNATIONAL",tvg-id="" tvg-logo="Logo N/A" tvg-name="CGTN English 2"  group-title="INTERNATIONAL"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CGTN English 2"  group-title="INTERNATIONAL",CGTN English 2
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Babel"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Babel"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bangka Belitung"  group-title="TV DAERAH",ID | TVRI Bangka Belitung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bali 360p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bali 360p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bali"  group-title="TV DAERAH",ID | TVRI Bali
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BALI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BALI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI BALI"  group-title="TV DAERAH",ID | TVRI BALI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Aceh 360p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Aceh 360p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Aceh 360p"  group-title="TV DAERAH",ID | TVRI Aceh 360p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI ACEH"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI ACEH"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI ACEH"  group-title="TV DAERAH",ID | TVRI ACEH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bali 180p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bali 180p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bali 180p"  group-title="TV DAERAH",ID | TVRI Bali 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(01)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bangka Belitung 360p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bangka Belitung 360p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bangka Belitung 360p"  group-title="TV DAERAH",ID | TVRI Bangka Belitung 360p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Bangka Belitung"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Bangka Belitung"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bangka Belitung"  group-title="TV DAERAH",ID | TVRI Bangka Belitung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bangka Belitung 180p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bangka Belitung 180p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bangka Belitung 180p"  group-title="TV DAERAH",ID | TVRI Bangka Belitung 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(01)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BALI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BALI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI BALI"  group-title="TV DAERAH",ID | TVRI BALI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI BABEL"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI BABEL"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI BABEL"  group-title="TV DAERAH",ID | TVRI BABEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BANGKA BELITUNG"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BANGKA BELITUNG"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI BANGKA BELITUNG"  group-title="TV DAERAH",ID | TVRI BANGKA BELITUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BENGKULU"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BENGKULU"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI BENGKULU"  group-title="TV DAERAH",ID | TVRI BENGKULU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Gorontalo"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Gorontalo"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Gorontalo"  group-title="TV DAERAH",ID | TVRI Gorontalo
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Jawa Barat"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Jawa Barat"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Gorontalo"  group-title="TV DAERAH",ID | TVRI Gorontalo
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Gorontalo 180p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Gorontalo 180p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Gorontalo 180p"  group-title="TV DAERAH",ID | TVRI Gorontalo 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(01)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Gorontalo 360p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Gorontalo 360p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Gorontalo 360p"  group-title="TV DAERAH",ID | TVRI Gorontalo 360p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI JAMBI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI JAMBI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI JAMBI"  group-title="TV DAERAH",ID | TVRI JAMBI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Jambi"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Jambi"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bengkulu"  group-title="TV DAERAH",ID | TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NASIONAL BANDUNG"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NASIONAL BANDUNG"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI NASIONAL BANDUNG"  group-title="TV DAERAH",ID | TVRI NASIONAL BANDUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bandung"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bandung"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bandung"  group-title="TV DAERAH",ID | TVRI Bandung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bengkulu 360p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bengkulu 360p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bengkulu 360p"  group-title="TV DAERAH",ID | TVRI Bengkulu 360p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bengkulu"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bengkulu"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bengkulu"  group-title="TV DAERAH",ID | TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Bengkulu"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Bengkulu"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bengkulu"  group-title="TV DAERAH",ID | TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bengkulu 180p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Bengkulu 180p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Bengkulu 180p"  group-title="TV DAERAH",ID | TVRI Bengkulu 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(01)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI DKI Jakarta"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI DKI Jakarta"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI DKI Jakarta"  group-title="TV DAERAH",ID | TVRI DKI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI GORONTALO"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI GORONTALO"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI GORONTALO"  group-title="TV DAERAH",ID | TVRI GORONTALO
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" tvg-name="TVRI (Opt-2)"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" tvg-name="TVRI (Opt-2)"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI (Opt-2)"  group-title="TV DAERAH",ID | TVRI (Opt-2)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI DKI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI DKI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI DKI"  group-title="TV DAERAH",ID | TVRI DKI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI Aceh"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI Aceh"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Aceh"  group-title="TV DAERAH",ID | TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="IN TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="IN TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Aceh"  group-title="TV DAERAH",ID | TVRI Aceh
 http://210.210.155.35/qwr9ew/s/s46/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ELSHINTA TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="ELSHINTA TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | ELSHINTA TV"  group-title="TV DAERAH",ID | ELSHINTA TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="HIDUP TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="HIDUP TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | HIDUP TV"  group-title="TV DAERAH",ID | HIDUP TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-name="K Drama"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-name="K Drama"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | K Drama"  group-title="TV DAERAH",ID | K Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://dojo-box.com/wp-content/uploads/2015/09/logo-aditv.png" tvg-name="ADiTV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://dojo-box.com/wp-content/uploads/2015/09/logo-aditv.png" tvg-name="ADiTV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | ADiTV"  group-title="TV DAERAH",ID | ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" tvg-name="KIX"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" tvg-name="KIX"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | KIX"  group-title="TV DAERAH",ID | KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-name="Thrill"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-name="Thrill"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Thrill"  group-title="TV DAERAH",ID | Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | ANTV"  group-title="TV DAERAH",ID | ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="RTV/RAJAWALI TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="RTV/RAJAWALI TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | RTV/RAJAWALI TV"  group-title="TV DAERAH",ID | RTV/RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="JAK TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="JAK TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | JAK TV"  group-title="TV DAERAH",ID | JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="BALI TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="BALI TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | BALI TV"  group-title="TV DAERAH",ID | BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="INEWS TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="INEWS TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | INEWS TV"  group-title="TV DAERAH",ID | INEWS TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="JTV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="JTV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | JTV"  group-title="TV DAERAH",ID | JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | RCTI"  group-title="TV DAERAH",ID | RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" tvg-name="Nick Jr."  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" tvg-name="Nick Jr."  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Nick Jr."  group-title="TV DAERAH",ID | Nick Jr.
 http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Budaya 180p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Budaya 180p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Budaya 180p"  group-title="TV DAERAH",ID | TVRI Budaya 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(01)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BUDAYA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI BUDAYA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI BUDAYA"  group-title="TV DAERAH",ID | TVRI BUDAYA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Ahsan TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Ahsan TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Ahsan TV"  group-title="TV DAERAH",ID | Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI 3"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI 3"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI 3"  group-title="TV DAERAH",ID | TVRI 3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Aceh 180p"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Aceh 180p"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Aceh 180p"  group-title="TV DAERAH",ID | TVRI Aceh 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(01)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Aceh"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Aceh"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Aceh"  group-title="TV DAERAH",ID | TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI ACEH"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI ACEH"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI ACEH"  group-title="TV DAERAH",ID | TVRI ACEH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" tvg-name="Foodie Channel"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" tvg-name="Foodie Channel"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Foodie Channel"  group-title="TV DAERAH",ID | Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" tvg-name="Dangdutz"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" tvg-name="Dangdutz"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Dangdutz"  group-title="TV DAERAH",ID | Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="DAAI TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="DAAI TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | DAAI TV"  group-title="TV DAERAH",ID | DAAI TV
 http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" tvg-name="Home & Living"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" tvg-name="Home & Living"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Home & Living"  group-title="TV DAERAH",ID | Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" tvg-name="BeritaSatu World"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" tvg-name="BeritaSatu World"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | BeritaSatu World"  group-title="TV DAERAH",ID | BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" tvg-name="Jakarta Globe (English)"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" tvg-name="Jakarta Globe (English)"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Jakarta Globe (English)"  group-title="TV DAERAH",ID | Jakarta Globe (English)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="BERITA SATU"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="BERITA SATU"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | BERITA SATU"  group-title="TV DAERAH",ID | BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jambi"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jambi"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Jambi"  group-title="TV DAERAH",ID | TVRI Jambi
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SUMATERA SELATAN"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SUMATERA SELATAN"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SUMATERA SELATAN"  group-title="TV DAERAH",ID | TVRI SUMATERA SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Sumatera Seletan"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Sumatera Seletan"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Sumatera Seletan"  group-title="TV DAERAH",ID | TVRI Sumatera Seletan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Padang"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Padang"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Padang"  group-title="TV DAERAH",ID | TVRI Padang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI SUMBAR"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI SUMBAR"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SUMBAR"  group-title="TV DAERAH",ID | TVRI SUMBAR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Palembang"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Palembang"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Palembang"  group-title="TV DAERAH",ID | TVRI Palembang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Medan"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Medan"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Medan"  group-title="TV DAERAH",ID | TVRI Medan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI MEDAN SUMUT"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI MEDAN SUMUT"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI MEDAN SUMUT"  group-title="TV DAERAH",ID | TVRI MEDAN SUMUT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI SUMSEL"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI SUMSEL"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SUMSEL"  group-title="TV DAERAH",ID | TVRI SUMSEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SUMATERA UTARA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SUMATERA UTARA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SUMATERA UTARA"  group-title="TV DAERAH",ID | TVRI SUMATERA UTARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Sumatera Barat"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Sumatera Barat"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Sumatera Barat"  group-title="TV DAERAH",ID | TVRI Sumatera Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sulsel"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sulsel"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Sulsel"  group-title="TV DAERAH",ID | TVRI Sulsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI TENGAH"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI TENGAH"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SULAWESI TENGAH"  group-title="TV DAERAH",ID | TVRI SULAWESI TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI SELATAN"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI SELATAN"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SULAWESI SELATAN"  group-title="TV DAERAH",ID | TVRI SULAWESI SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Makassar"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Makassar"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Makassar"  group-title="TV DAERAH",ID | TVRI Makassar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sulteng"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sulteng"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Sulteng"  group-title="TV DAERAH",ID | TVRI Sulteng
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sulut"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sulut"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Sulut"  group-title="TV DAERAH",ID | TVRI Sulut
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SUMATERA BARAT"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SUMATERA BARAT"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SUMATERA BARAT"  group-title="TV DAERAH",ID | TVRI SUMATERA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI TENGGARA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI TENGGARA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SULAWESI TENGGARA"  group-title="TV DAERAH",ID | TVRI SULAWESI TENGGARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI UTARA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI UTARA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SULAWESI UTARA"  group-title="TV DAERAH",ID | TVRI SULAWESI UTARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="DMI TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="DMI TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | DMI TV"  group-title="TV DAERAH",ID | DMI TV
 http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://i.pinimg.com/originals/9a/a3/cc/9aa3cca889c266b1cd750a452d982a9e.jpg" tvg-name="Saling Sapa TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://i.pinimg.com/originals/9a/a3/cc/9aa3cca889c266b1cd750a452d982a9e.jpg" tvg-name="Saling Sapa TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Saling Sapa TV"  group-title="TV DAERAH",ID | Saling Sapa TV
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="ASWAJA TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="ASWAJA TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | ASWAJA TV"  group-title="TV DAERAH",ID | ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Arek TV Surabaya"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Arek TV Surabaya"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Arek TV Surabaya"  group-title="TV DAERAH",ID | Arek TV Surabaya
 http://stream1.ninmedia.tv/live/xmedia-arektv.stream/media_w1337460548_9014.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://i.imgur.com/P7kAO7Y.jpg" tvg-name="Star Bridge TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://i.imgur.com/P7kAO7Y.jpg" tvg-name="Star Bridge TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Star Bridge TV"  group-title="TV DAERAH",ID | Star Bridge TV
 http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TV MUHAMMADIYAH"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TV MUHAMMADIYAH"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TV MUHAMMADIYAH"  group-title="TV DAERAH",ID | TV MUHAMMADIYAH
 rtmp://118.97.183.222/discover/muhammadiyahtv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.jawapos.tv/assets/img/list/pandeglang&tangerang.jpg" tvg-name="Jawa Pos TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.jawapos.tv/assets/img/list/pandeglang&tangerang.jpg" tvg-name="Jawa Pos TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Jawa Pos TV"  group-title="TV DAERAH",ID | Jawa Pos TV
 rtmp://122.248.32.234:1935/ch6/myStream
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 9 NUSANTARA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 9 NUSANTARA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TV 9 NUSANTARA"  group-title="TV DAERAH",ID | TV 9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png?w=250&h=100&crop=1" tvg-name="InsanTV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png?w=250&h=100&crop=1" tvg-name="InsanTV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | InsanTV"  group-title="TV DAERAH",ID | InsanTV
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Akhyar TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Akhyar TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Akhyar TV"  group-title="TV DAERAH",ID | Akhyar TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI"  group-title="TV DAERAH",ID | TVRI
 http://rr2.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="RODJA TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="RODJA TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | RODJA TV"  group-title="TV DAERAH",ID | RODJA TV
 http://rr2.dens.tv/s/s14/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI YOGYAKARTA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI YOGYAKARTA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI YOGYAKARTA"  group-title="TV DAERAH",ID | TVRI YOGYAKARTA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jogja"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jogja"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Jogja"  group-title="TV DAERAH",ID | TVRI Jogja
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="TV2"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="TV2"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TV2"  group-title="TV DAERAH",ID | TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="BBS TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="BBS TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | BBS TV"  group-title="TV DAERAH",ID | BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" tvg-name="BBSTV Surabaya"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" tvg-name="BBSTV Surabaya"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | BBSTV Surabaya"  group-title="TV DAERAH",ID | BBSTV Surabaya
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="Okey TV"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="Okey TV"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | Okey TV"  group-title="TV DAERAH",ID | Okey TV
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/RTM_TVi.jpg" tvg-name="RTM TVi"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/RTM_TVi.jpg" tvg-name="RTM TVi"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | RTM TVi"  group-title="TV DAERAH",ID | RTM TVi
 http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Kalteng"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Kalteng"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Kalteng"  group-title="TV DAERAH",ID | TVRI Kalteng
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KALIMANTAN TIMUR"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KALIMANTAN TIMUR"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI KALIMANTAN TIMUR"  group-title="TV DAERAH",ID | TVRI KALIMANTAN TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Kalteng"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Kalteng"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Kalteng"  group-title="TV DAERAH",ID | TVRI Kalteng
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI Samarinda"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI Samarinda"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Samarinda"  group-title="TV DAERAH",ID | TVRI Samarinda
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI LAMPUNG"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI LAMPUNG"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI LAMPUNG"  group-title="TV DAERAH",ID | TVRI LAMPUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Lampung"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Lampung"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Lampung"  group-title="TV DAERAH",ID | TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KaltimSamarinda"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KaltimSamarinda"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Kaltim Samarinda"  group-title="TV DAERAH",ID | TVRI Kaltim Samarinda
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Lampung"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Lampung"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Lampung"  group-title="TV DAERAH",ID | TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI KALSEL BANJARMASIN"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI KALSEL BANJARMASIN"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI KALSEL BANJARMASIN"  group-title="TV DAERAH",ID | TVRI KALSEL BANJARMASIN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Semarang"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Semarang"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Semarang"  group-title="TV DAERAH",ID | TVRI Semarang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI JATENG SEMARANG"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI JATENG SEMARANG"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI JATENG SEMARANG"  group-title="TV DAERAH",ID | TVRI JATENG SEMARANG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI JAMBI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="TVRI JAMBI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI JAMBI"  group-title="TV DAERAH",ID | TVRI JAMBI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI JAWA TENGAH"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI JAWA TENGAH"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI JAWA TENGAH"  group-title="TV DAERAH",ID | TVRI JAWA TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI JAWA TIMUR"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI JAWA TIMUR"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI JAWA TIMUR"  group-title="TV DAERAH",ID | TVRI JAWA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KALIMANTAN SELATAN"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KALIMANTAN SELATAN"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI KALIMANTAN SELATAN"  group-title="TV DAERAH",ID | TVRI KALIMANTAN SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Surabaya"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Surabaya"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Surabaya"  group-title="TV DAERAH",ID | TVRI Surabaya
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KALIMANTAN BARAT"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI KALIMANTAN BARAT"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI KALIMANTAN BARAT"  group-title="TV DAERAH",ID | TVRI KALIMANTAN BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI PAPUA"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI PAPUA"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI PAPUA"  group-title="TV DAERAH",ID | TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Papau"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Papau"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Papau"  group-title="TV DAERAH",ID | TVRI Papau
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Kupang"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Kupang"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Kupang"  group-title="TV DAERAH",ID | TVRI Kupang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NTT Kupang"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NTT Kupang"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI NTT Kupang"  group-title="TV DAERAH",ID | TVRI NTT Kupang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Papua"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Papua"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Papua"  group-title="TV DAERAH",ID | TVRI Papua
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI RIAU"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="Indonesian: TVRI RIAU"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI RIAU"  group-title="TV DAERAH",ID | TVRI RIAU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI BARAT"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI SULAWESI BARAT"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI SULAWESI BARAT"  group-title="TV DAERAH",ID | TVRI SULAWESI BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI RIAU"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI RIAU"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI RIAU"  group-title="TV DAERAH",ID | TVRI RIAU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Pekan Baru"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Pekan Baru"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Pekan Baru"  group-title="TV DAERAH",ID | TVRI Pekan Baru
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NUSA TENGGARA TIMUR"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NUSA TENGGARA TIMUR"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI NUSA TENGGARA TIMUR"  group-title="TV DAERAH",ID | TVRI NUSA TENGGARA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Maluku Ambon"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Maluku Ambon"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Maluku Ambon"  group-title="TV DAERAH",ID | TVRI Maluku Ambon
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRImalukuambon)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="TVRI" tvg-logo="Logo N/A" tvg-name="tvg-id="TVRI" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Nasional"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="TVRI" tvg-logo="http://www.tvri.co.id/images/logo.png" tvg-name="TVRI Nasional"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="TVRI" tvg-logo="Logo N/A" tvg-name="ID | TVRI Nasional"  group-title="TV DAERAH",ID | TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Lampung"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Lampung"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI Lampung"  group-title="TV DAERAH",ID | TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI MALUKU"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI MALUKU"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI MALUKU"  group-title="TV DAERAH",ID | TVRI MALUKU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI"  group-title="TV DAERAH",ID | TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NUSA TENGGARA BARAT"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NUSA TENGGARA BARAT"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI NUSA TENGGARA BARAT"  group-title="TV DAERAH",ID | TVRI NUSA TENGGARA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NTB Mataram"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI NTB Mataram"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI NTB Mataram"  group-title="TV DAERAH",ID | TVRI NTB Mataram
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIntbmataram)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" tvg-name="TVRI"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" tvg-name="TVRI"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI"  group-title="TV DAERAH",ID | TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvg-id="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" tvg-name="TVRI (Opt-1)"  group-title="TV DAERAH""  group-title="TV DAERAH",tvg-id="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" tvg-name="TVRI (Opt-1)"  group-title="TV DAERAH"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID | TVRI (Opt-1)"  group-title="TV DAERAH",ID | TVRI (Opt-1)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
