@@ -39,6 +39,8 @@ http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVONE"  group-title="INDONESIA",TVONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="TV DAERAH",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="TV2"  group-title="TV DAERAH",TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://i.imgur.com/P7kAO7Y.jpg" tvg-name="Star Bridge TV"  group-title="TV DAERAH",Star Bridge TV
@@ -81,8 +83,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RODJA TV"  group-title="TV DAERAH",RODJA TV
 http://rr2.dens.tv/s/s14/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="TV DAERAH",RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="JAK TV"  group-title="TV DAERAH",JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="INEWS TV"  group-title="TV DAERAH",INEWS TV
